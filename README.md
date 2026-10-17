@@ -1,4 +1,6 @@
-# Flexura
+<p align="center"><img src="assets/logo.png" width="128" alt="Flexura logo"></p>
+
+<h1 align="center">Flexura</h1>
 
 An AI coding agent for macOS with a **Canvas**. Next to the chat, the agent builds real, working panels (test benches, viewers, dashboards, small tools) and then uses them itself to check its work.
 
