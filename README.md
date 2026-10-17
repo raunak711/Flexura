@@ -4,7 +4,7 @@ An AI coding agent for macOS with a **Canvas**. Next to the chat, the agent buil
 
 Made for developers building AI products: compare prompts and models side by side, replay an agent's run step by step, see what your retrieval returned, throw odd inputs at a feature, and keep a set of test cases you re-run after every change.
 
-**[Download for Mac (Apple Silicon)](https://github.com/raunak711/flexura-ai-releases/releases/latest/download/Flexura-latest-arm64.dmg)** · [flexura.site](https://flexura.site)
+**[Download for Mac (Apple Silicon)](https://github.com/raunak711/flexura/releases/latest/download/Flexura-latest-arm64.dmg)** · [flexura.site](https://flexura.site)
 
 ## Install
 
@@ -39,4 +39,4 @@ Made for developers building AI products: compare prompts and models side by sid
 
 ## Feedback
 
-Bugs, ideas, questions: [raunakkumar@flexura.site](mailto:raunakkumar@flexura.site) or [open an issue](https://github.com/raunak711/flexura-ai-releases/issues).
+Bugs, ideas, questions: [raunakkumar@flexura.site](mailto:raunakkumar@flexura.site) or [open an issue](https://github.com/raunak711/flexura/issues).
